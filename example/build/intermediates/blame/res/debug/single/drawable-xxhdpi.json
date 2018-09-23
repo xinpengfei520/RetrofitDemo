@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\RetrofitDemo\\example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_github.png",
+        "source": "D:\\AndroidStudioProjects\\RetrofitDemo\\example\\src\\main\\res\\drawable-xxhdpi\\ic_github.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\RetrofitDemo\\example\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\RetrofitDemo\\example\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
